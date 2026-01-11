@@ -27,7 +27,7 @@ This dataset contains user demographic and behavioral information along with ad 
 * Pandas & NumPy
 * Scikit-learn
 * Matplotlib & Seaborn
-* Jupyter Notebook / Google Colab
+* Jupyter Notebook 
 
 
 ## Project Milestones
