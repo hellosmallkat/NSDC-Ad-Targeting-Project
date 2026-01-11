@@ -1,6 +1,6 @@
 
 
-# 📢 Ad Targeting & Click Prediction
+# Ad Targeting & Click Prediction
 
 **Machine Learning Project**
 
